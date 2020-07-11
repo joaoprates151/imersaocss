@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("../imagens/fundo5.jpeg");
+    background-image: url("fundo5.jpeg");
     font-family: Arial, Helvetica, sans-serif;
     background-size: auto 100vh;/*ajustar a imagem no site, largura depois altura*/
     height: 100vh;/*O body vai ficar em 100%*/
