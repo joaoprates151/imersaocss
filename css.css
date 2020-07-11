@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("fundo5.jpeg");
+    background-image: url("https://www.ufrgs.br/renafor/wp-content/uploads/2015/05/fundo-cinza.jpg");
     font-family: Arial, Helvetica, sans-serif;
     background-size: auto 100vh;/*ajustar a imagem no site, largura depois altura*/
     height: 100vh;/*O body vai ficar em 100%*/
