@@ -1,0 +1,46 @@
+body
+{
+    background-image: url("fundo5.jpeg");
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: auto 100vh;/*ajustar a imagem no site, largura depois altura*/
+    height: 100vh;/*O body vai ficar em 100%*/
+}
+
+.menu
+{
+    background-color:#fff;
+}
+
+.menu li
+{
+    list-style: none;/*retira os pontos na frente do menu*/
+}
+
+.menu ul
+{
+    display: flex;/*deixa os links na mesma linha*/
+    justify-content: space-around;/*deixa espaçoes entre os links*/
+}
+
+a
+{
+    text-decoration: none;/*Tirar o underline do a*/
+    color: #444;
+}
+
+a:hover/*Quando o mouse passa por cima*/
+{
+    text-decoration: underline;
+}
+
+.site-subtitle,/*economia de código*/
+.site-title
+{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.site-subtitle/*pode ter outro*/
+{
+    
+}
